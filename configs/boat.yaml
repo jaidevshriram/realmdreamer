@@ -1,0 +1,6 @@
+scene_name: 'boat'
+base_img_path: 'data/images/boat.jpg'
+debug: true
+
+prompt: 'A boy sitting in a boat in the middle of the ocean, under the milkyway, anime style'
+aux_prompt: 'A vast ocean under the milkyway, anime style'

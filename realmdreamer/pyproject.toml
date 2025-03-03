@@ -1,0 +1,37 @@
+[project]
+name = "realmdreamer"
+version = "0.1.0"
+
+dependencies=[
+]
+
+# black
+[tool.black]
+line-length = 120
+
+# pylint
+[tool.pylint.messages_control]
+max-line-length = 120
+generated-members = ["numpy.*", "torch.*", "cv2.*", "cv.*"]
+good-names-rgxs = "^[_a-zA-Z][_a-z0-9]?$"
+jobs = 0
+ignored-classes = ["TensorDataclass"]
+
+disable = [
+  "duplicate-code",
+  "fixme",
+  "logging-fstring-interpolation",
+  "too-many-arguments",
+  "too-many-branches",
+  "too-many-instance-attributes",
+  "too-many-locals",
+  "unnecessary-ellipsis",
+]
+
+[tool.setuptools.packages.find]
+include = ["realmdreamer", "utils"]
+
+[project.entry-points.'nerfstudio.method_configs']
+realmdreamer = 'realmdreamer.gaussian_splatting.gs_config:realmdreamer'
+realmdreamer-f = 'realmdreamer.gaussian_splatting.gs_config:realmdreamer_finetune'
+dummy-pcd = 'realmdreamer.dummy.dummy_config:dummy_pcd_method'

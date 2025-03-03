@@ -1,0 +1,5 @@
+scene_name: 'conference'
+base_img_path: 'data/images/conference.png'
+debug: false
+
+prompt: 'A minimal conference room, with a long table, a screen on the wall and a whiteboard, 4k image, photorealistic, sharp'

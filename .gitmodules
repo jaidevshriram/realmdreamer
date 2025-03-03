@@ -1,0 +1,6 @@
+[submodule "pcd_generator/depth_estimators/extern/Depth-Anything"]
+	path = pcd_generator/depth_estimators/extern/Depth-Anything
+	url = https://github.com/LiheYoung/Depth-Anything/
+[submodule "realmdreamer/diff-gaussian-rasterization"]
+	path = realmdreamer/diff-gaussian-rasterization
+	url = https://github.com/ashawkey/diff-gaussian-rasterization

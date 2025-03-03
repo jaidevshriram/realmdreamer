@@ -1,0 +1,5 @@
+scene_name: 'bohemian'
+base_img_path: 'data/images/bohemian.png'
+debug: false
+
+prompt: 'A bohemian living room, colorful textiles, vibrant, eclectic, 4k image, photorealistic'

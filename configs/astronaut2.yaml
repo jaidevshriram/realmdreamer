@@ -1,0 +1,6 @@
+scene_name: 'test_release'
+base_img_path: 'data/images/astronaut2.jpg'
+debug: true
+
+prompt: 'An astronaut in a cave, trending on artstation, 8k image'
+aux_prompt: 'A cave, trending on artstation, 8k image'

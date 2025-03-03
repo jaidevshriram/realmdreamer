@@ -1,0 +1,5 @@
+scene_name: 'gate'
+base_img_path: 'data/images/gate.png'
+debug: false
+
+prompt: 'The Brandenburg Gate in Berlin, large stone gateway with series of columns and a sculpture of a chariot and horses on top, clear sky, 4k image, photorealistic'

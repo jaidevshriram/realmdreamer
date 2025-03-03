@@ -1,0 +1,5 @@
+scene_name: 'kitchen'
+base_img_path: 'data/images/kitchen.png'
+debug: true
+
+prompt: 'An old charming stone kitchen, 4k image, photorealistic, high detail'

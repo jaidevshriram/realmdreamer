@@ -1,0 +1,5 @@
+scene_name: 'lighthouse'
+base_img_path: 'data/images/lighthouse.png'
+debug: false
+
+prompt: 'Fantasy lighthouse in the Arctic, surrounded by a world of ice and snow, shining with a mystical light under the aurora borealis, 4k, sharp'

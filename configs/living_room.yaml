@@ -1,0 +1,6 @@
+scene_name: 'living_room'
+base_img_path: 'data/images/living_room.png'
+debug: true
+
+prompt: 'a living room, high quality, 8K image, photorealistic'
+aux_prompt: 'bookshelves on the wall, 8K image, photorealistic'

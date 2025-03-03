@@ -1,0 +1,5 @@
+scene_name: 'bust'
+base_img_path: 'data/images/bust.png'
+debug: false
+
+prompt: 'A marble bust in a museum with pale teal walls, framed paintings, marble patterned floor, 4k image'

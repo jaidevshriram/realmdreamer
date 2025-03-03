@@ -1,0 +1,5 @@
+scene_name: 'car'
+base_img_path: 'data/images/car.png'
+debug: false
+
+prompt: 'An old car overgrown by vines and weeds, high quality image, photorealistic, 4k image'

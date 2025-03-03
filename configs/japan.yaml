@@ -1,0 +1,5 @@
+scene_name: 'japan'
+base_img_path: 'data/images/japan.png'
+debug: false
+
+prompt: 'A sunny royal traditional Japanese bedroom, 4k image, ornate, high detail'

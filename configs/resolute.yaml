@@ -1,0 +1,6 @@
+scene_name: 'resolute'
+base_img_path: 'data/images/resolute.png'
+debug: true
+
+prompt: 'A highly detailed image of the resolute desk in the oval office, 4k image'
+aux_prompt: 'A golden curtain and windows with sunlight streaming in, hardwood floors'

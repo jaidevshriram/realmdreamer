@@ -1,0 +1,8 @@
+scene_name: 'bear'
+base_img_path: 'data/images/bear.png'
+debug: false
+
+prompt: 'A bear sitting in a classroom with a hat on, realistic, 4k image, high detail'
+
+depth_estimator:
+  mode: "indoor"

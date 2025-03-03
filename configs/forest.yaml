@@ -1,0 +1,5 @@
+scene_name: 'forest'
+base_img_path: 'data/images/forest.jpg'
+debug: true
+
+prompt: 'a thick elven forest, fantasy art, landscape, picturesque, 4k image'

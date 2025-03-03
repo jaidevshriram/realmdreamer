@@ -1,0 +1,6 @@
+scene_name: 'lavender'
+base_img_path: 'data/images/lavender.png'
+debug: true
+
+prompt: 'Small lavender room, soft lighting, unreal engine render, voxels.'
+aux_prompt: 'Lavender walls, soft lighting, unreal engine render'

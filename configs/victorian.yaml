@@ -1,0 +1,5 @@
+scene_name: 'victorian'
+base_img_path: 'data/images/victorian.jpg'
+debug: false
+
+prompt: 'A victorian living room with a grand fireplace and a long sofa, painting over the fireplace, mysterious vibe, giant windows, 4k image, photorealistic'

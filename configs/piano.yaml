@@ -1,0 +1,5 @@
+scene_name: 'piano'
+base_img_path: 'data/images/piano.jpg'
+debug: false
+
+prompt: 'White grand piano on wooden floors in an empty hall, 4k image'

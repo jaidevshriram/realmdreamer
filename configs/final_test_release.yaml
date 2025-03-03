@@ -1,0 +1,5 @@
+scene_name: 'test_release'
+base_img_path: 'data/images/bear.png'
+debug: false
+
+prompt: 'A bear sitting in a classroom with a hat on, realistic, 4k image, high detail'

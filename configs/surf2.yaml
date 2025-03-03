@@ -1,0 +1,6 @@
+scene_name: 'surf2'
+base_img_path: 'data/images/surf.png'
+debug: true
+
+prompt: 'A majestic peacock, surfing a tall wave, photorealistic, detailed image, 4k image'
+aux_prompt: 'A calm and vast blue ocean, photorealsitic, 4k image, detailed image'

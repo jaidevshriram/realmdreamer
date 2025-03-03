@@ -1,0 +1,5 @@
+scene_name: 'arcade'
+base_img_path: 'data/images/arcade.jpg'
+debug: true
+
+prompt: 'Retro arcade room with posters on the walls, retro art style, illustration'

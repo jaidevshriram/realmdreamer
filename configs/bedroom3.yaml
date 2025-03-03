@@ -1,0 +1,6 @@
+scene_name: 'bedroom3'
+base_img_path: 'data/images/bedroom3.png'
+debug: false
+
+prompt: 'A minimalist bedroom, 4K image, high resolution'
+aux_prompt: 'walls in a minimalist room, 4K image, high resolution'

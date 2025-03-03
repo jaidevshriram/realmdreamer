@@ -1,0 +1,5 @@
+scene_name: 'steampunk'
+base_img_path: 'data/images/steampunk.jpg'
+debug: false
+
+prompt: 'A steampunk bedroom with glass ceilings, photorealistic, 4k image, bright lighting'

@@ -47,6 +47,8 @@ We also provide a docker image for the project. You can pull the image using and
 
 # How to Run
 
+If running one of the scenes from the paper, it is recommended to jump to stage 2 since the data provided includes results from stage 1.
+
 <details>
 <summary><h1>Stage 1 (Optional): Initialization</h1></summary>
 
